@@ -1,0 +1,13 @@
+touch .gitignore
+
+node_modules/
+src/components/__tests__/__snapshots__/
+src/containers/__tests__/__snapshots__/
+src/models/__tests__/__snapshots__/
+src/reducers/__tests__/__snapshots__/
+src/actions/__tests__/__snapshots__/
+src/components/__tests__/__mocks__/
+src/containers/__tests__/__mocks__/
+src/models/__tests__/__mocks__/
+src/reducers/__tests__/__mocks__/
+src/actions/__tests__/__mocks__/
