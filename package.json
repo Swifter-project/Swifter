@@ -1,0 +1,15 @@
+{
+  "name": "Swifter",
+  "version": "1.0.0",
+  "description": "An online platform that connects customers with local restaurants",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3",
+    "passport": "^0.4.1",
+    "stripe": "^8.18.0"
+  }
+}
