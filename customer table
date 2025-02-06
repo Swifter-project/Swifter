@@ -1,0 +1,35 @@
+<?php
+// require_once
+dirname (_DIR) •
+'/ static/classes/Customer.php';
+// require_once dirname (_
+_DIR
+'/static/classes/Order.php';
+L?>
+<table class="table table-stripped" id="customers">
+<thead>
+<tr>
+<th>Name</ th>
+<th>Phone</th>
+<th >Email</th>
+</tr>
+</thead> <tbody>
+<?php foreach
+<tr>
+<td><?php
+echo
+<td><?php
+echo
+<td><?php
+echo
+</tr>
+<?php endforeach;
+?>
+</ tbody>
+_</table>
+(§customers as $customer) : ?>
+scuPomer ('name']; ?></td>
+$customer l' phone '];
+?></td>
+§customer ( 'email']; ?></td>
+has context menu
